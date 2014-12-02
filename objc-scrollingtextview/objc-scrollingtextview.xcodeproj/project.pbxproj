@@ -56,10 +56,10 @@
 		07F792E61A2D17AE00ACE12C /* objc-scrollingtextview */ = {
 			isa = PBXGroup;
 			children = (
-				07F793071A2D17D100ACE12C /* GWScrollingTextView.h */,
-				07F793081A2D17D100ACE12C /* GWScrollingTextView.m */,
 				07F792E91A2D17AE00ACE12C /* AppDelegate.h */,
 				07F792EA1A2D17AE00ACE12C /* AppDelegate.m */,
+				07F793071A2D17D100ACE12C /* GWScrollingTextView.h */,
+				07F793081A2D17D100ACE12C /* GWScrollingTextView.m */,
 				07F792EE1A2D17AE00ACE12C /* Images.xcassets */,
 				07F792F01A2D17AE00ACE12C /* MainMenu.xib */,
 				07F792E71A2D17AE00ACE12C /* Supporting Files */,
